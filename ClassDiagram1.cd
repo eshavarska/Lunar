@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttachGameObjectsToParticles">
+    <Position X="0.75" Y="11" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAAAAAAAAAIAAAgCAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AttachGameObjectsToParticles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AttachOrb">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAACAAAABAAAAAABAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AttachOrb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FreezePosition">
+    <Position X="4.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FreezePosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAQAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgnoreCollision">
+    <Position X="3.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\IgnoreCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelCanvasFunctions">
+    <Position X="9.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelCanvasFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Moth">
+    <Position X="0.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAgAAIAAAACAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Moth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedOrb_Damager">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAEAAAIAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\RedOrb_Damager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rope">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Rope.RopeSegment">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\Rope.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAAAIAAAABAAAIARBAIAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeBridge">
+    <Position X="5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="RopeBridge.RopeSegment">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\RopeBridge.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAmAAQABAAEABAAAIARBAIAAAAAAACAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\RopeBridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeCollider">
+    <Position X="0.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgRAABCAACAAAAAAAAAAABAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RopeCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RopeCutter">
+    <Position X="0.5" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\RopeCutter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rune_EnableOrb">
+    <Position X="2.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgACAAAAAAAAAAACAAAEAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rune_EnableOrb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenChanger">
+    <Position X="11.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Assets\Scripts\ScreenChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScreenManager">
+    <Position X="9.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEIAAAAAAAAEAAAAAEEAAAAAABgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetLevelInGM">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SetLevelInGM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinLevel">
+    <Position X="11.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WinLevel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
